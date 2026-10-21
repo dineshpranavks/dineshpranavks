@@ -4,17 +4,22 @@
 <!-- Replace YOUR_GITHUB_USERNAME and placeholder URLs below. -->
 <!-- ========================================================= -->
 
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050B08,40:063D28,100:00C853&height=8&section=header" alt="Green terminal accent"/>
+<!-- NEON GREEN CYBER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:07110B,35:063D28,75:008F54,100:00C853&height=8&section=header" alt="Neon green accent"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=%24+whoami;%3E+Java+Backend+Engineer+in+Progress;%3E+Building+systems.+Solving+problems.;%3E+Exploring+AI-powered+applications." alt="Terminal introduction"/>
+<!-- TERMINAL INTRO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=700&color=00C853&center=true&vCenter=true&width=600&lines=root%40dinesh%3A~%24+whoami;%3E+Dinesh+Pranav;%3E+Java+Backend+%7C+Spring+Boot;%3E+Exploring+AI-powered+applications;%3E+Code.+Learn.+Build.+Repeat." alt="Terminal typing animation"/>
 
-# <code>DINESH_PRANAV</code>
+<br/>
 
-### `JAVA` · `SPRING_BOOT` · `BACKEND_SYSTEMS` · `AI_ENGINEERING`
+# <code>DINESH PRANAV</code>
+
+### <code>JAVA BACKEND</code> &nbsp;|&nbsp; <code>SPRING BOOT</code> &nbsp;|&nbsp; <code>AI ENGINEERING</code>
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-00C853?style=flat-square&labelColor=07110B" alt="Learning and building"/>
@@ -23,30 +28,36 @@
 </p>
 
 <p>
-  <code>root@developer:~$</code> Building reliable software, one commit at a time.
+  <code>root@dinesh:~$</code> Building with logic. Designing with purpose. Growing with every commit.
 </p>
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<!-- SOCIAL LINKS -->
+<a href="https://github.com/dineshpranavks">
   <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
   <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853" alt="LinkedIn"/>
 </a>
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio"/>
+</a>
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Contact"/>
+  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM%20VISITS&color=00C853&style=flat-square" alt="Profile visits"/>
+<!-- VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=dineshpranavks&label=PROFILE%20VISITORS&color=00C853&style=for-the-badge" alt="GitHub profile visitors"/>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,100:07110B&height=3&section=footer" alt="Green terminal accent"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,50:064E3B,100:07110B&height=3&section=footer" alt="Neon green footer accent"/>
 
 </div>
+
 
 ---
 

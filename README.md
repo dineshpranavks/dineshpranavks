@@ -4,60 +4,59 @@
 <!-- Replace YOUR_GITHUB_USERNAME and placeholder URLs below. -->
 <!-- ========================================================= -->
 
-
 <div align="center">
 
-<!-- NEON GREEN CYBER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:07110B,35:063D28,75:008F54,100:00C853&height=8&section=header" alt="Neon green accent"/>
+<!-- PREMIUM EMERALD GRADIENT BANNER -->
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:07110B,30:064E3B,65:008F54,100:00C853&height=220&section=header&text=Dinesh%20Pranav&fontSize=52&fontColor=F0FFF4&fontAlignY=38&desc=Java%20Backend%20%7C%20Spring%20Boot%20%7C%20AI%20Engineering&descSize=17&descAlignY=58&animation=fadeIn"
+  alt="Dinesh Pranav — Green Developer Banner"
+/>
 
 <br/>
 
-<!-- TERMINAL INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=700&color=00C853&center=true&vCenter=true&width=600&lines=root%40dinesh%3A~%24+whoami;%3E+Dinesh+Pranav;%3E+Java+Backend+%7C+Spring+Boot;%3E+Exploring+AI-powered+applications;%3E+Code.+Learn.+Build.+Repeat." alt="Terminal typing animation"/>
-
-<br/>
-
-# <code>DINESH PRANAV</code>
-
-### <code>JAVA BACKEND</code> &nbsp;|&nbsp; <code>SPRING BOOT</code> &nbsp;|&nbsp; <code>AI ENGINEERING</code>
-
-<p>
-  <img src="https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-00C853?style=flat-square&labelColor=07110B" alt="Learning and building"/>
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND_ENGINEERING-00C853?style=flat-square&labelColor=07110B" alt="Backend engineering"/>
-  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_GROWTH-00C853?style=flat-square&labelColor=07110B" alt="Continuous growth"/>
-</p>
-
-<p>
-  <code>root@dinesh:~$</code> Building with logic. Designing with purpose. Growing with every commit.
-</p>
-
-<br/>
-
-<!-- SOCIAL LINKS -->
+<!-- ANIMATED TAGLINE -->
 <a href="https://github.com/dineshpranavks">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+universe!;Building+ideas+into+reality.;Learning%2C+creating%2C+and+innovating.;Writing+code%2C+solving+problems."
+    alt="Animated developer tagline"
+  />
 </a>
+
+<br/>
+
+**Building with logic. Designing with purpose. Growing with every commit.**
+
+<br/><br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://github.com/dineshpranavks">
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub Profile"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio"/>
 </a>
+&nbsp;
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=dineshpranavks&label=PROFILE%20VISITORS&color=00C853&style=for-the-badge" alt="GitHub profile visitors"/>
+<!-- PROFILE VISITOR COUNTER -->
+<img
+  src="https://komarev.com/ghpvc/?username=dineshpranavks&label=PROFILE%20VISITORS&color=00C853&style=flat-square"
+  alt="Profile visitors"
+/>
 
 <br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,50:064E3B,100:07110B&height=3&section=footer" alt="Neon green footer accent"/>
 
 </div>
-
 
 ---
 

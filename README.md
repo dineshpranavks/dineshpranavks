@@ -1,30 +1,56 @@
  <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07110B,40:064E3B,75:008F54,100:00C853&height=220&section=header&text=Dinesh%20Pranav&fontSize=48&fontColor=F0FFF4&fontAlignY=38&desc=Java%20Backend%20%7C%20Spring%20Boot%20%7C%20AI%20Engineering&descSize=16&descAlignY=58&animation=fadeIn" alt="Emerald green developer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07110B,40:064E3B,75:008F54,100:00C853&height=220&section=header&text=DINESH%20PRANAV%20K S&fontSize=48&fontColor=F0FFF4&fontAlignY=38&desc=Java%20Backend%20%7C%20Spring%20Boot%20%7C%20AI%20Engineering&descSize=16&descAlignY=58&animation=fadeIn" alt="Emerald green developer banner"/>
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+universe!;Building+ideas+into+reality.;Learning%2C+creating%2C+and+innovating.;Writing+code%2C+solving+problems.;Growing+as+a+Java+Backend+Engineer." alt="Animated developer introduction"/>
 </a>
 
-<a href="https://github.com/dineshpranavks">
-  <img src="https://img.shields.io/badge/GITHUB-PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub Profile" />
+
+<!-- SOCIAL BADGES — ORIGINAL BRAND THEMES -->
+<div align="center">
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/dineshpranav/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-6C47FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+&nbsp;
 <a href="mailto:dineshpranav.ks@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 </div>
 
 ---
 
-## 🟢 ABOUT ME
+## <img src="https://img.icons8.com/fluency-systems-filled/48/00C853/user.png" width="25" alt="About"/> About Me
+
+```java
+public class Developer {
+
+    String name = "Dinesh Pranav";
+    String role = "Computer Science Engineering Student";
+
+    String[] interests = {
+        "Java Backend Engineering",
+        "Spring Boot & REST APIs",
+        "Data Structures & Algorithms",
+        "AI-Powered Applications",
+        "Full-Stack Development"
+    };
+
+    String mindset = "Learn. Build. Improve. Repeat.";
+}
+```
 
 🎓 Computer Science Engineering student passionate about building practical software and continuously improving as a developer.
 

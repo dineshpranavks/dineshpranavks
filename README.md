@@ -6,36 +6,45 @@
 
 <div align="center">
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07110B,40:064E3B,75:008F54,100:00C853&height=220&section=header&text=Dinesh%20Pranav&fontSize=48&fontColor=F0FFF4&fontAlignY=38&desc=Java%20Backend%20%7C%20Spring%20Boot%20%7C%20AI%20Engineering&descSize=16&descAlignY=58&animation=fadeIn" alt="Emerald green developer banner"/>
-
-<!-- ANIMATED TYPING -->
-<a href="https://github.com/dineshpranavks">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+universe!;Building+ideas+into+reality.;Learning%2C+creating%2C+and+innovating.;Writing+code%2C+solving+problems.;Growing+as+a+Java+Backend+Engineer." alt="Animated developer introduction"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050B08,40:063D28,100:00C853&height=8&section=header" alt="Green terminal accent"/>
 
 <br/>
 
-**Building with logic. Designing with purpose. Growing with every commit.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=%24+whoami;%3E+Java+Backend+Engineer+in+Progress;%3E+Building+systems.+Solving+problems.;%3E+Exploring+AI-powered+applications." alt="Terminal introduction"/>
+
+# <code>DINESH_PRANAV</code>
+
+### `JAVA` · `SPRING_BOOT` · `BACKEND_SYSTEMS` · `AI_ENGINEERING`
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-LEARNING_%26_BUILDING-00C853?style=flat-square&labelColor=07110B" alt="Learning and building"/>
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND_ENGINEERING-00C853?style=flat-square&labelColor=07110B" alt="Backend engineering"/>
+  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_GROWTH-00C853?style=flat-square&labelColor=07110B" alt="Continuous growth"/>
+</p>
+
+<p>
+  <code>root@developer:~$</code> Building reliable software, one commit at a time.
+</p>
 
 <br/>
 
-<a href="https://github.com/dineshpranavks">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
 </a>
-<a href="www.linkedin.com/in/dineshpranav">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853" alt="LinkedIn"/>
 </a>
-<a href="www.linkedin.com/in/dineshpranav">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio"/>
-</a>
-<a href="dineshpranav.ks@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Contact"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dineshpranavks&label=PROFILE%20VISITORS&color=00C853&style=flat-square" alt="Profile visitor counter"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM%20VISITS&color=00C853&style=flat-square" alt="Profile visits"/>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C853,100:07110B&height=3&section=footer" alt="Green terminal accent"/>
 
 </div>
 

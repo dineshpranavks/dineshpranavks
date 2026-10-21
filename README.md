@@ -1,27 +1,12 @@
-
-<!-- ========================================================= -->
-<!--                 GREEN DEVELOPER PROFILE                  -->
-<!-- Replace YOUR_GITHUB_USERNAME and placeholder URLs below. -->
-<!-- ========================================================= -->
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/db4da4db-89e0-404b-8af8-8dc0fb221417" />
-
-
+![Uploading image.png…]()
 
 <div align="center">
 
-<a href="https://github.com/dineshpranavks">
+<!-- <a href="https://github.com/dineshpranavks">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2200&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=750&height=100&lines=DINESH+PRANAV" alt="DINESH PRANAV"/>
-</a>
-
-<br/>
+</a> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=700&color=00C853&center=true&vCenter=true&width=750&height=40&lines=JAVA+BACKEND+%7C+SPRING+BOOT+%7C+AI+ENGINEERING;BUILDING+IDEAS+INTO+REALITY;LEARN.+BUILD.+INNOVATE.+REPEAT." alt="Animated developer tagline"/>
-
-<br/><br/>
-
-<b>BUILDING WITH LOGIC. DESIGNING WITH PURPOSE.</b>
-
-<br/><br/>
 
 <!-- SOCIAL BADGES -->
 <a href="https://github.com/dineshpranavks">
@@ -118,33 +103,3 @@ public class Developer {
 
 </div>
 
-> **Note:** Keep only the technologies you can genuinely discuss and demonstrate. Add tools such as Docker, AWS, CI/CD, or AI frameworks after you've used them in practice.
-
----
-
-### 🚀 More Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-All%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="Explore all repositories"/>
-</a>
-
-</div>
-
----
-
-## <img src="https://img.icons8.com/fluency-systems-filled/48/00C853/terminal.png" width="25" alt="Focus"/> Current Focus
-
-<div align="center">
-
-| Area | Current Direction |
-|:---|:---|
-| 🟢 Backend | Java, Spring Boot, REST API development |
-| 🟢 Engineering | OOP, SOLID principles, clean architecture |
-| 🟢 Databases | SQL, schema design, query optimization |
-| 🟢 Problem-solving | Data structures and algorithms |
-| 🟢 AI | Exploring AI-powered application development |
-| 🟢 Professional growth | Projects, interview preparation, collaboration |
-
-</div>

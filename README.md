@@ -31,7 +31,7 @@
 
 ---
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/00C853/user.png" width="25" alt="About"/> About Me
+<img src="https://img.icons8.com/fluency-systems-filled/48/00C853/user.png" width="25" alt="About"/> <h2>About Me</h2>
 
 ```java
 public class Developer {
@@ -61,7 +61,7 @@ public class Developer {
 
 ---
 
-<img src="https://img.icons8.com/fluency-systems-filled/48/00C853/code.png" width="25" alt="Tech stack"/> Tech Stack
+<img src="https://img.icons8.com/fluency-systems-filled/48/00C853/code.png" width="25" alt="Tech stack"/> <h2>Tech Stack</h2>
 
 💻 Programming Languages
 

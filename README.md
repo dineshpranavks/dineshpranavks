@@ -4,40 +4,26 @@
 <!-- Replace YOUR_GITHUB_USERNAME and placeholder URLs below. -->
 <!-- ========================================================= -->
 
+
+
 <div align="center">
 
-<!-- CUSTOM CYBER-GREEN PROFILE BANNER -->
-<img
-  src="./assets/profile-banner.png"
-  width="100%"
-  alt="Dinesh Pranav | Java Backend, Spring Boot and AI Engineering"
-/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=2200&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=750&height=100&lines=DINESH+PRANAV" alt="DINESH PRANAV"/>
+</a>
 
 <br/>
 
-<!-- REAL, CLICKABLE SOCIAL LINKS -->
-<a href="https://github.com/dineshpranavks">
-  <img src="https://img.shields.io/badge/GitHub-Profile-07110B?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub Profile"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-07110B?style=for-the-badge&logo=linkedin&logoColor=00C853" alt="LinkedIn"/>
-</a>
-<a href="https://YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-07110B?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio"/>
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-07110B?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=700&color=00C853&center=true&vCenter=true&width=750&height=40&lines=JAVA+BACKEND+%7C+SPRING+BOOT+%7C+AI+ENGINEERING;BUILDING+IDEAS+INTO+REALITY;LEARN.+BUILD.+INNOVATE.+REPEAT." alt="Animated developer tagline"/>
 
 <br/><br/>
 
-<!-- LIVE PROFILE VISITOR COUNTER -->
-<img
-  src="https://komarev.com/ghpvc/?username=dineshpranavks&label=PROFILE%20VISITORS&color=00C853&style=for-the-badge"
-  alt="GitHub profile visitors"
-/>
+<b>BUILDING WITH LOGIC. DESIGNING WITH PURPOSE.</b>
+
+<br/><br/>
 
 </div>
+
 
 ---
 

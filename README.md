@@ -22,8 +22,26 @@
 
 <br/><br/>
 
-</div>
+<!-- SOCIAL BADGES -->
+<a href="https://github.com/dineshpranavks">
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub Profile"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=00C853" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email"/>
+</a>
 
+<br/><br/>
+
+</div>
 
 ---
 

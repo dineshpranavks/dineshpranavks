@@ -1,12 +1,12 @@
  <div align="center">
 
-<img width="100%" src="https://github.com/user-attachments/assets/518aac9d-c183-46f3-b028-346aa599a63c" alt="Dinesh Pranav K S — Green Tech Banner" />
+<!-- HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07110B,40:064E3B,75:008F54,100:00C853&height=220&section=header&text=Dinesh%20Pranav&fontSize=48&fontColor=F0FFF4&fontAlignY=38&desc=Java%20Backend%20%7C%20Spring%20Boot%20%7C%20AI%20Engineering&descSize=16&descAlignY=58&animation=fadeIn" alt="Emerald green developer banner"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00C853&center=true&vCenter=true&width=750&height=40&lines=JAVA+BACKEND+%7C+SPRING+BOOT+%7C+AI+ENGINEERING;BUILDING+IDEAS+INTO+REALITY;LEARN.+BUILD.+INNOVATE.+REPEAT." alt="Animated developer tagline" />
-
-<br/>
+<!-- ANIMATED TYPING -->
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+universe!;Building+ideas+into+reality.;Learning%2C+creating%2C+and+innovating.;Writing+code%2C+solving+problems.;Growing+as+a+Java+Backend+Engineer." alt="Animated developer introduction"/>
+</a>
 
 <a href="https://github.com/dineshpranavks">
   <img src="https://img.shields.io/badge/GITHUB-PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub Profile" />
@@ -20,11 +20,6 @@
 <a href="mailto:dineshpranav.ks@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dineshpranavks&label=PROFILE+VISITORS&color=00C853&style=flat-square" alt="Profile visitors" />
-
 </div>
 
 ---
@@ -43,7 +38,7 @@
 
 ---
 
-## 🟢 TECH STACK
+## TECH STACK
 
 ### 💻 Programming Languages
 
@@ -84,3 +79,5 @@
 *Code with purpose. Grow with curiosity. Build with passion.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,45:064E3B,100:07110B&height=120&section=footer" alt="Green footer banner"/>

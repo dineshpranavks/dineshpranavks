@@ -48,19 +48,19 @@
 ### 💻 Programming Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Java, Python, C, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" alt="Java, Python, C, JavaScript" />
 </div>
 
 ### 🌐 Frontend Development
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" alt="HTML, CSS, React, Tailwind CSS, Vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="HTML, CSS, React, Tailwind CSS, Vite" />
 </div>
 
 ### ⚙️ Backend Development
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" alt="Spring, Node.js, Express.js" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,aws&theme=dark" alt="Spring, Node.js, Express.js" />
 </div>
 
 ### 🗄️ Databases & Storage
@@ -72,23 +72,7 @@
 ### 🛠️ Tools & Development Environment
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman" />
-</div>
-
----
-
-## 🟢 CURRENT FOCUS
-
-<div align="center">
-
-| Focus Area | What I'm Working Toward |
-|:--|:--|
-| ☕ Java Backend | Spring Boot and REST API development |
-| 🧩 Problem Solving | DSA and interview preparation |
-| 🏗️ Software Engineering | OOP, SOLID, clean architecture |
-| 🤖 AI Engineering | Exploring AI-powered applications |
-| 🚀 Project Development | Building practical, reliable software |
-
+  <img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman&theme=dark" alt="Git, GitHub, VS Code, IntelliJ IDEA, Postman" />
 </div>
 
 ---

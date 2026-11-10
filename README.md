@@ -30,8 +30,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VISITORS&color=00C853&style=flat-square" alt="Profile visitor counter"/>
-
 </div>
 
 ---
